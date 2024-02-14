@@ -7,7 +7,7 @@
   left: 20px;
     width: 200px;
     height: 600px;
-    background-color: rgb(83, 246, 197); /* flashy red color */
+    background-color: rgb(84, 246, 197); /* flashy red color */
     transition: transform 0.3s ease; /* add a transition to the transform property */
   }
   

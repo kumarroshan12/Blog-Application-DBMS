@@ -9,7 +9,7 @@ const Footer = () => {
         <br />
         Made with 🤍 by
         <br />
-        <b>@RoshanKr</b>
+        <b>@RoshanKumar</b>
       </span>
     </footer>
   );
