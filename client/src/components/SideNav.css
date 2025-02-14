@@ -21,10 +21,10 @@
   
   .sidenav a:hover {
     background-color: #fff; /* change the background color on hover */
-    color: rgb(22, 113, 97); /* change the text color on hover */
+    color: rgb(23, 113, 97); /* change the text color on hover */
     transform: translateX(10px); /* add a horizontal translation on hover */
   }
   
   .sidenav:hover {
-    transform: scale(1.1); /* add a scale effect on hover */
+    transform: scale(1.2); /* add a scale effect on hover */
   }
